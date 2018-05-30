@@ -1,0 +1,14 @@
+//META{"name":"Splatoon Theme","description":"A prototype Splatoon theme ver2.0","author":"Yoshiva99 & Hammock","version":"1.0.0"}*//{}
+@import url(https://tinyurl.com/yblvdhsa);
+
+:root {
+	--main-color: rgba(255,141,0,1);
+	--main-color-faded: rgba(255,141,0,0.2);
+	--accent-color: rgba(255,141,0,1);
+	--dark-color: #ff9a00;
+	--trans-color: rgba(0,0,0,0.8);
+
+	/* Modal Background Color / Opacity */
+	--short-gradient: linear-gradient(45deg, rgba(255,191,114,0.5), rgba(255,141,0,0.5));
+	--short-gradient-faded: linear-gradient(45deg, rgba(255,192,114,0.1), rgba(255,141,0,0.1));
+}
