@@ -12,15 +12,15 @@ So, first thing you're going to want to do is install Better Discord.
 1. Run "BandagedBD_NoAdmin.exe" and install it.
 
 Once that's installed, open Discord, and then exit it again.
-2. Install "Splatfont2.ttf"
+1. Install "Splatfont2.ttf"
 
 After you installed the font, next up you need to put the stuff where it belongs.
-3. Press the windows key and "r" at the same time, then type "%appdata%" and hit enter.
-4. Navigate to BetterDiscord>Themes and then put "Splatoon Theme.theme.css" in there. (Splatoon Theme.theme.css is in the "Theme" folder in this zip.)
-5. Open up Discord
-6. Go to User Settings
-7. Scroll down to "Themes"
-8. Enable "Splatoon Theme"
+1. Press the windows key and "r" at the same time, then type "%appdata%" and hit enter.
+2. Navigate to BetterDiscord>Themes and then put "Splatoon Theme.theme.css" in there. (Splatoon Theme.theme.css is in the "Theme" folder in this zip.)
+3. Open up Discord
+4. Go to User Settings
+5. Scroll down to "Themes"
+6. Enable "Splatoon Theme"
 
 And you're good to go!
 ...if you don't care about plugins.
