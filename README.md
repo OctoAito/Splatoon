@@ -19,6 +19,8 @@ How to Install
 9. Scroll down to "Themes"
 10. Enable **Splatoon Theme**
 
+
+
 And you're good to go!
 
 ...if you don't care about plugins.
@@ -26,11 +28,11 @@ And you're good to go!
 Plugins
 ==============
 I've included a variety of plugins in this zip that are just generally quality of life improvements for discord, located in the "Optional Plugins" folder in this zip.
-	1. Navigate back to **%appdata%**, then **BetterDiscord>Plugins** and just drag and drop everything in there.
-	2. Restart **Discord**.
-	3. Go to User Settings
-	4. Scroll down to "Plugins"
-	5. Enable all of the ones you want.
+1. Navigate back to **%appdata%**, then **BetterDiscord>Plugins** and just drag and drop everything in there.
+2. Restart **Discord**.
+3. Go to User Settings
+4. Scroll down to "Plugins"
+5. Enable all of the ones you want.
 
 **IMPORTANT NOTES:** 
 ==============
