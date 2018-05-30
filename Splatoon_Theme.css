@@ -6,7 +6,8 @@
 	url('//s.cdpn.io/12109/Splatoon.woff') format('woff'),
 	url('//s.cdpn.io/12109/Splatoon.ttf') format('truetype'),
 	url('//s.cdpn.io/12109/Splatoon.svg#Splatoon') format('svg');
-	
+}
+
 @font-face {
 	font-family: 'Splatfont 2';
 	src: url('https://rawgit.com/yoshiva99/Splatoon/master/bin/Splatfont2.ttf?raw=true');
