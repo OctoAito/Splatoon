@@ -12,8 +12,8 @@ How to Install
 2. Open and then exit **Discord**
 3. Download the **theme** via clicking on "Clone or download" (the green button at the top of the page) and then clicking "Download ZIP"
 4. Install **Splatfont2.ttf**
-5. Press the **windows key** and **"r"** at the same time, then type **%appdata%** into the box and hit enter.
-6. Navigate to **BetterDiscord>Themes** and then put "Splatoon Theme.theme.css" in there. (Splatoon Theme.theme.css is in the "Theme" folder in this zip.)
+5. Press the **windows key** and **"r"** at the same time, then type **"%appdata%'** (without the quotation marks) into the box and hit enter.
+6. Navigate to **BetterDiscord>Themes** and then put **Splatoon Theme.theme.css** in there.
 7. Open up **Discord**
 8. Go to User Settings
 9. Scroll down to "Themes"
@@ -28,7 +28,7 @@ And you're good to go!
 Plugins
 ==============
 I've included a variety of plugins in this zip that are just generally quality of life improvements for discord, located in the "Optional Plugins" folder in this zip.
-1. Navigate back to **%appdata%**, then **BetterDiscord>Plugins** and just drag and drop everything in there.
+1. Navigate back to **"%appdata%"** (without the quotation marks), then **BetterDiscord>Plugins** and just drag and drop everything in there.
 2. Restart **Discord**.
 3. Go to User Settings
 4. Scroll down to "Plugins"
