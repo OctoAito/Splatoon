@@ -3,8 +3,8 @@
 **This is my first time writing a "read me," so bear with me here.**
 
 
-**NOTE: THIS TUTORIAL AND THEME IS FOR WINDOWS ONLY
-- IT IS ALSO FOR THE DISCORD DARK APPEARANCE ONLY**
+- THIS TUTORIAL AND THEME IS FOR WINDOWS ONLY
+- IT IS ALSO FOR THE DISCORD DARK APPEARANCE ONLY
 
 How to Install
 ==============
