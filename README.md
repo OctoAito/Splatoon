@@ -8,20 +8,16 @@
 
 How to Install
 ==============
-So, first thing you're going to want to do is install Better Discord.
 1. Run **BandagedBD.exe** and install it.
-
-Once that's installed, open Discord, and then exit it again.
-1. Install **Splatfont2.ttf**
-
-After you installed the font, next up you need to download the theme put the stuff where it belongs.
-1. Download the **theme** via clicking on "Clone or download" (the green button at the top of the page) and then clicking "Download ZIP"
-2. Press the **windows key** and **"r"** at the same time, then type **%appdata%** into the box and hit enter.
-3. Navigate to **BetterDiscord>Themes** and then put "Splatoon Theme.theme.css" in there. (Splatoon Theme.theme.css is in the "Theme" folder in this zip.)
-4. Open up **Discord**
-5. Go to User Settings
-6. Scroll down to "Themes"
-7. Enable **Splatoon Theme**
+2. Open and then exit **Discord**
+3. Download the **theme** via clicking on "Clone or download" (the green button at the top of the page) and then clicking "Download ZIP"
+4. Install **Splatfont2.ttf**
+5. Press the **windows key** and **"r"** at the same time, then type **%appdata%** into the box and hit enter.
+6. Navigate to **BetterDiscord>Themes** and then put "Splatoon Theme.theme.css" in there. (Splatoon Theme.theme.css is in the "Theme" folder in this zip.)
+7. Open up **Discord**
+8. Go to User Settings
+9. Scroll down to "Themes"
+10. Enable **Splatoon Theme**
 
 And you're good to go!
 
