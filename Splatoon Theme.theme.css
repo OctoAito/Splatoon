@@ -1,6 +1,7 @@
 //META{"name":"Splatoon Theme","description":"A prototype Splatoon theme","author":"Yoshiva99 & Hammock","version":"1.0.0"}*//{}
 @import url(https://rawgit.com/yoshiva99/Splatoon/master/Splatoon.css);
 
+
 :root {
 	--main-color: rgba(255,141,0,1);
 	--main-color-faded: rgba(255,141,0,0.2);
