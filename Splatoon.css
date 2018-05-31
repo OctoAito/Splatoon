@@ -25,6 +25,7 @@
 
 /* =====Core Elements===== */
 
+
 div>*:not(code) {
 	font-family:'Splatfont 2', 'Splatoon';
 	letter-spacing: 0.7px;
